@@ -1,14 +1,18 @@
+# Crosskey Banking Application
+Built on Java, the Crosskey banking application specializes in creating a customer-centric loan calculator. This feature-rich calculator takes into account essential factors such as loan amount, interest rate, and the chosen payback period, providing accurate and insightful results to assist customers in making informed financial decisions.
 
-
-
-#Readme of how to start the application.
-
-- To start the app, you need to press Run Main.
-- Then you need to write the Name, Loan amount, Amount of years, Amount of rate, 
-- and come the results that show everything as in the example below
-
-##Exemple of outprint the Loan app version 1.0
-###Loan app version 1.0
+## How to Start the Application
+1. Press "Run Main" to initiate the application.
+2. Enter the required information:
+- Name
+- Loan amount
+- Amount of years
+- Amount of rate
+3. Review the results displayed, as illustrated in the example below.
+## Example Output: Loan App Version 1.0
+plaintext
+Copy code
+Loan App Version 1.0
 ****************************************************************************************************
 - Name: AMMAR
 - Loan amount: 10000.99
